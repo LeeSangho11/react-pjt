@@ -1,0 +1,12 @@
+.main {
+  flex: 1;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.title {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 700;
+}
