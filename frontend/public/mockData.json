@@ -1,0 +1,14 @@
+{
+  "data": {
+    "username": "박민수",
+    "email": "minsu@example.com",
+    "password": "qwerty",
+    "age": 31,
+    "gender": "male",
+    "interests": ["coding", "travel"],
+    "country": "kr",
+    "bio": "풀스택 개발자이며 새로운 기술을 배우는 걸 좋아합니다.",
+    "date": "2025-09-07",
+    "satisfaction": 8
+  }
+}

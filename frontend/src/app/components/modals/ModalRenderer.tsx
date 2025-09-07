@@ -7,6 +7,7 @@ const MODAL_COMPONENTS = {
 
 const ModalRenderer = () => {
   const modalMap = modalStore((state) => state.modalMap);
+
   return (
     <>
       {Object.entries(modalMap).map(([key, { isOpen, props }]) => {
